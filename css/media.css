@@ -1,0 +1,295 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*header start*/
+.logo {
+    width: 50%;
+}
+.btn_cm {
+    margin-left: 5px;
+}
+.coll_btn{
+	font-size: 15px;
+}
+/*banner start*/
+.slider {
+    padding: 80px 0 80px;
+}
+.slider h1 {
+    font-size: 35px;
+    line-height: 1;
+}
+.slider p {
+    margin: 17px 0 25px;
+    padding-right: 20px;
+}
+.slider a {
+    padding: 2px 7px;
+}
+.btn_acm span {
+    margin-left: 8px;
+}
+/*welcome start*/
+.welcome {
+    padding-bottom: 50px;
+}
+.w_h1 h1 {
+    margin-top: 20px;
+    font-size: 23px;
+}
+.w_p {
+    margin-top: 25px;
+    padding: 0;
+}
+/*feature start*/
+.feature {
+    padding-bottom: 30px;
+}
+.f_item {
+    margin-bottom: 30px;
+    padding: 40px 18px 30px;
+}
+.border {
+    margin: 15px auto;
+}
+.f_item p {
+    margin: 0 0 30px;
+}
+/*about start*/
+.about{
+    padding-bottom: 60px;
+}
+.ab_img {
+    margin-bottom: 30px;
+    padding: 0 80px;
+}
+.ab_text {
+    text-align: center;
+}
+.ab_text h1 {
+    font-size: 27px;
+}
+.c_p {
+    margin: 20px 0 20px;
+}
+.btn_com {
+    margin-top: 30px;
+    padding: 3px 10px;
+}
+.btn_com span {
+    margin-left: 10px;
+}
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*header start*/
+.logo {
+    width: 40%;
+}
+.btn_cm {
+    margin-left: 5px;
+}
+/*banner start*/
+.slider {
+    padding: 110px 0 100px;
+}
+.slider h1 {
+    font-size: 35px;
+}
+.slider p {
+    margin: 25px 0;
+    padding-right: 180px;
+}
+.slider a {
+    padding: 5px 10px;
+}
+.btn_acm span {
+    margin-left: 10px;
+}
+/*welcome start*/
+.welcome {
+    padding-bottom: 60px;
+}
+.w_h1 h1 {
+    margin-top: 20px;
+    font-size: 27px;
+}
+.w_p {
+    margin-top: 30px;
+    padding: 0 10px;
+}
+/*feature start*/
+.feature {
+    padding-bottom: 30px;
+}
+.f_item {
+    margin-bottom: 30px;
+    padding: 40px 18px 30px;
+}
+.border {
+    margin: 15px auto;
+}
+.f_item p {
+    margin: 0 0 30px;
+}
+/*about start*/
+.about{
+    padding-bottom: 60px;
+}
+.ab_img {
+    margin-bottom: 30px;
+    padding: 0 80px;
+}
+.ab_text {
+    text-align: center;
+}
+.ab_text h1 {
+    font-size: 27px;
+}
+.c_p {
+    margin: 20px 0 20px;
+}
+.btn_com {
+    margin-top: 30px;
+    padding: 3px 10px;
+}
+.btn_com span {
+    margin-left: 10px;
+}
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.btn_cm {
+    margin-left: 5px;
+}
+/*banner start*/
+.slider {
+    padding: 150px 0 150px;
+}
+.slider h1 {
+    font-size: 50px;
+}
+.slider p {
+    margin: 30px 0;
+    padding-right: 40px;
+}
+.slider a {
+    padding: 8px 15px;
+}
+/*welcome start*/
+.welcome {
+    padding-bottom: 80px;
+}
+.w_p {
+    margin-top: 30px;
+    padding: 0 30px;
+}
+/*feature start*/
+.feature {
+    padding-bottom: 50px;
+}
+.f_item {
+    margin-bottom: 30px;
+    padding: 50px 18px 30px;
+}
+.f_item p {
+    margin: 0 0 30px;
+}
+/*about start*/
+.about{
+    padding-bottom: 80px;
+}
+.ab_img {
+    padding: 0 130px 40px;
+}
+.ab_text {
+    text-align: center;
+}
+.c_p {
+    margin: 30px 0 30px;
+}
+.btn_com {
+    padding: 5px 15px;
+}
+.btn_com span {
+    margin-left: 10px;
+}
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*banner start*/
+.slider p{
+    padding-right: 70px;
+}
+/*feature start*/
+.f_item {
+    padding: 40px 10px 30px;
+}
+.f_item p {
+    margin: 0 0 20px;
+}
+/*about start*/
+.ab_text {
+    margin-left: 40px;
+}
+.ab_text h1 {
+    font-size: 28px;
+}
+.c_p {
+    margin: 20px 0 25px;
+}
+.ab_text p{
+    font-size: 15px;
+}
+.btn_com {
+    margin-top: 25px;
+    padding: 8px 30px;
+    font-size: 15px;
+}
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+/*banner start*/
+.slider p {
+    padding-right: 110px;
+}
+/*about start*/
+.ab_text {
+    margin-left: 50px;
+}
+.c_p {
+    margin: 20px 0 25px;
+}
+.btn_com {
+    margin-top: 25px;
+}
+
+}
+
+/* Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+/*banner start*/
+.banner{
+	background-position: bottom;
+}
+.slider p {
+    padding-right: 230px;
+}
+/*about start*/
+.ab_text {
+    margin-left: 50px;
+}
+
+} 
